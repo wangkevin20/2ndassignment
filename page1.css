@@ -2,25 +2,25 @@
 body{
 background-color:  cyan;
 margin: 8px 9% 8px 9%;
-border: black 3px solid;
+text-align: center;
 padding: 10px 10% 10px 10%;
 }
 
-.intro {
+#intro {
   color:purple;
   font-weight: bold;
   font-size: 15px;
   font-family: serif;
 }
 
-.middle {
+#middle {
   color:purple;
   font-weight: bold;
   font-size: 15px;
   font-family: serif;
 }
 
-.end {
+#end {
   color:purple;
   font-weight: bold;
   font-size: 23px;
