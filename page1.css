@@ -1,0 +1,29 @@
+
+body{
+background-color:  cyan;
+margin: 8px 9% 8px 9%;
+border: black 3px solid;
+padding: 10px 10% 10px 10%;
+}
+
+.intro {
+  color:purple;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: serif;
+}
+
+.middle {
+  color:purple;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: serif;
+}
+
+.end {
+  color:purple;
+  font-weight: bold;
+  font-size: 23px;
+  font-family: serif;
+  text-transform: uppercase;
+}
